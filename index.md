@@ -1,20 +1,6 @@
-Hello, world!
-# SPIDERMAN NO WAY HOME SPOILERS
-**YOOOOOO**
-*YOOOOOOO*
-## fr fr 
-[Youtube](https://www.youtube.com/watch?v=iuOYz8zt9J4)
-![Image](https://upload.wikimedia.org/wikipedia/en/thumb/2/21/Web_of_Spider-Man_Vol_1_129-1.png/250px-Web_of_Spider-Man_Vol_1_129-1.png)
-> "With great power comes great responsibility"
-* Homecoming
-* Far from Home
-* No Way Home
-Horizontal Rule:
----
-`hello world`
-```
-#code block
-```
-woop woop! i made an update! :D
+# Nathan Onpaeng's Lab Reports
+![Image](https://crc.losrios.edu//crc/main/img/page-assets/Share-Social-1200x630/cac/business-and-computer-science-social.png)
 
-[Lab Report 1](lab-report-1-week-2.md)
+## Lab Reports: ##
+**[Lab Report 1](lab-report-1-week-2.md)**
+
