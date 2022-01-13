@@ -16,3 +16,5 @@ Horizontal Rule:
 #code block
 ```
 woop woop! i made an update! :D
+
+[Lab Report 1](lab-report-1-week-2.md)
