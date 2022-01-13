@@ -1,1 +1,7 @@
-![image](https://user-images.githubusercontent.com/97479525/149249400-909fdc74-fe1c-4c94-b29d-57b962418e35.png)
+# lab-report-1-week-2.md
+![image](/Users/nathanonpaeng/Desktop/Screen Shot 2022-01-12 at 5.33.55 PM.png)
+
+
+
+
+
