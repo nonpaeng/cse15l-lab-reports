@@ -2,7 +2,7 @@
 
 ## Text in between bracket and parenthesis
 ---
-[The file of code that caused the error](lab4/error-file.md)
+[The file of code that caused the error](error-file.md)
 
 The output of the file with the failure inducing input:
 >![Image](error1.png)
@@ -12,7 +12,7 @@ The code change:
 
 ## Not Returning an Empty List When Formatting is Off
 ---
-[The file of code that caused the error](lab4/test-file7.md)
+[The file of code that caused the error](test-file7.md)
 
 The output of the file with the failure inducing input:
 >![Image](error2.png)
@@ -22,7 +22,7 @@ The code change:
 
 ## Image Link Returning
 ---
-[The file of code that caused the error(it is an image file so it will only show an image)](lab4/test-file6.md)
+[The file of code that caused the error(it is an image file so it will only show an image)](test-file6.md)
 
 The output of the file with the failure inducing input:
 >![Image](error3.png)
