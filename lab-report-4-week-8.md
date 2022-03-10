@@ -8,15 +8,15 @@
 ---
 Snippet 1:
 [`google.com, google.com, ucsd.edu]
->![Pic](cmmonmark1.png)
+>![Pic](redosnippet0.png)
 
 Snippet 2: 
 [a.com, a.com(()), example.com]
->![Pic](cmmonmark2.png)
+>![Pic](redosnippet2.png)
 
 Snippet 3: [https://www.twitter.com, https://ucsd-cse15l-w22.github.io/, https://cse.ucsd.edu/]
 
->![Pic](cmmonmark3.png)
+>![Pic](redosnippet3.png)
 
 ## Test Conversion in MarkdownParseTest.java
 ---
